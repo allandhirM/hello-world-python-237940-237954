@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && flask run --host <host> --port <port>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/hello-world-python-237940-237954/hello_world_backend"
+}
